@@ -44,7 +44,7 @@
 		</c:forEach>
 		
 		
-				<form:form modelAttribute="tunti" method="post">
+		<form:form modelAttribute="tunti" method="post">
 		  	<fieldset>		
 				<legend><spring:message code="tunti.create.legend" /></legend>
 				
